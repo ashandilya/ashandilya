@@ -3,8 +3,11 @@
 <!--
 **ashandilya/ashandilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
 Here are some ideas to get you started:
 -->
+
 - 🔭 I’m currently working on [NEOMED](https://github.com/ashandilya/NEOMED)
 - 🌱 I’m currently learning Kotlin, Design Patterns and Android Architecture
 - 👯 I’m looking to collaborate on Native Application Development
@@ -13,6 +16,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Here](https://linktr.ee/anshu.shandilya)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I dance like a child
+
+    <a href="https://twitter.com/a0Shandilya">
+          <img align="left" alt="Anshu Kumar Shandilya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    </a>
+    <a href="https://www.linkedin.com/in/shandilya64/">
+      <img align="left" alt="Anshu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    </a>
+    <a href="https://www.instagram.com/anshu.shandilya/">
+      <img align="left" alt="Anshu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    </a>
+
+
 
 I write about Android, Open source contribution and technology update on Medium. 
 Here, you can read some of my writing.
