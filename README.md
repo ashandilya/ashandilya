@@ -27,10 +27,9 @@ Here are some ideas to get you started:
       <img align="left" alt="Anshu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
     </a>
 
-
-
-I write about Android, Open source contribution and technology update on Medium. 
-Here, you can read some of my writing.
+     I write about Android, Open source contribution and technology update on Medium. 
+     
+     Here, you can read some of my writing.
 
 - [First App on Playtore](https://medium.com/ashandilya/first-app-on-playstore-7a84ddb1a268?source=---------5------------------)
 
