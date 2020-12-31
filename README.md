@@ -8,32 +8,29 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [NEOMED](https://github.com/ashandilya/NEOMED)
-- 🌱 I’m currently learning Kotlin, Design Patterns and Android Architecture
+- 🔭 I’m currently working on ValueRead
+- 🌱 I’m currently learning Kotlin & Database Design 
 - 👯 I’m looking to collaborate on Native Application Development
-- 🤔 I’m looking for help with Design Pattern
-- 💬 Ask me about Technology, Psychology, Entreprenuership and Chess
+- 🤔 I’m looking for help in understanding Test Driven Development for App Development
+- 💬 Ask me about Software Application Development, Open Source, Technical Writing
 - 📫 How to reach me: [Here](https://linktr.ee/anshu.shandilya)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I dance like a child
 
-    <a href="https://twitter.com/a0Shandilya">
-          <img align="left" alt="Anshu Kumar Shandilya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-    </a>
-    <a href="https://www.linkedin.com/in/shandilya64/">
-      <img align="left" alt="Anshu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    </a>
-    <a href="https://www.instagram.com/anshu.shandilya/">
-      <img align="left" alt="Anshu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-    </a>
+<a href="https://twitter.com/a0Shandilya">
+       <img align="left" alt="Anshu Kumar Shandilya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/shandilya64/">
+     <img align="left" alt="Anshu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <br/>
      
      
      
-     I write about Android, Open source contribution and technology update on Medium. 
+I mostly write about Android, Opensource, Github, Life insights. 
      
-     Here, you can read some of my writing.
+Here, you can read some of my writing.
 
 - [First App on Playtore](https://medium.com/ashandilya/first-app-on-playstore-7a84ddb1a268?source=---------5------------------)
 
@@ -44,7 +41,6 @@ Here are some ideas to get you started:
 - [How to Start learning Android App development?](https://medium.com/ashandilya/how-to-start-learning-android-app-development-2eae017d3769?source=---------12------------------)
 
 - [TodayILearnt 0.2 (From Traveling)](https://medium.com/@ashandilya/todayilearnt-0-2-from-traveling-3446f993e4eb?source=---------14------------------)
-
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashandilya&show_icons=true)](https://github.com/ashandilya/github-readme-stats)-->
