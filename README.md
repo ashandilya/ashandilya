@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I dance like a child
 
 ---
-<br/>   
-
 I mostly write about Android, Opensource, Github, Life insights. 
 ---
 
