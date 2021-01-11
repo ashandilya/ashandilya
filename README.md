@@ -16,21 +16,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Here](https://linktr.ee/anshu.shandilya)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I dance like a child
-     
+
+<br/>
      
 I mostly write about Android, Opensource, Github, Life insights. 
      
-Here, you can read some of my writing.
 
-- [First App on Playtore](https://medium.com/ashandilya/first-app-on-playstore-7a84ddb1a268?source=---------5------------------)
-
-- [How to find a suitable open-source project to contribute?](https://medium.com/@ashandilya/how-to-find-a-suitable-open-source-project-to-contribute-55ac1cd97de4)
-
-- [Open source contribution is just a few steps away](https://medium.com/ashandilya/open-source-contribution-is-just-a-few-steps-away-f898dc725e1a?source=---------11------------------)
-
-- [How to Start learning Android App development?](https://medium.com/ashandilya/how-to-start-learning-android-app-development-2eae017d3769?source=---------12------------------)
-
-- [TodayILearnt 0.2 (From Traveling)](https://medium.com/@ashandilya/todayilearnt-0-2-from-traveling-3446f993e4eb?source=---------14------------------)
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashandilya&show_icons=true)](https://github.com/ashandilya/github-readme-stats)-->
