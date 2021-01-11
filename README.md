@@ -22,6 +22,9 @@ I mostly write about Android, Opensource, Github, Life insights.
      
 ### Technical Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why should you learn Kotlin?](https://dev.to/a0shandilya/why-should-you-learn-kotlin-bkc)
+- [Top 10 Android Development Questions I have been asked](https://dev.to/a0shandilya/top-10-android-development-questions-i-have-been-asked-4ojd)
+- [Best Blog Websites for Android App Developers](https://dev.to/a0shandilya/best-blog-websites-for-android-app-developers-4i3l)
 <!-- BLOG-POST-LIST:END -->
 
 
