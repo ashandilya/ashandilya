@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 I mostly write about Android, Opensource, Github, Life insights. 
      
-<br/>   
+### Technical Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
