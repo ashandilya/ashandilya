@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Here](https://linktr.ee/anshu.shandilya)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I dance like a child
-
-<br/>
-     
+<br/>   
 I mostly write about Android, Opensource, Github, Life insights. 
      
 
